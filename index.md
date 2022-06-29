@@ -1,5 +1,6 @@
-﻿#Object Detection With Deep Learning On Raspberry Pi
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Object Detection With Deep Learning On Raspberry Pi
+ 
+Using object detection I created a program that correctly identifies a certain subject/object from an image. In this case I can upload an image of an airplane into a folder and then run the code that was created, and it will subsequently tell us what airline the plane belongs to. ALong with this information it will let us know how certain the program is of it's findings. In the future, the code can be changed to detect any other object you could think of!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
