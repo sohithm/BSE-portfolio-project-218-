@@ -15,16 +15,18 @@ So far I was able to get tensorflow working on my raspberry pi, which is a platf
 
 <iframe width="650" height="365.625" src="https://www.youtube.com/embed/1lDAeFAYNfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
+ <br> <br>
 
 # Second Milestone
  
-asobfoaboufbiuadsbfibds
+milestone description
  
 <iframe width="650" height="365.625" src="https://www.youtube.com/embed/qT83YkiYU4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
+ <br> <br>
 
 # Third Milestone
  
-asubfopanfpouasnd
+milestone description
  
 <iframe width="650" height="365.625" src="https://www.youtube.com/embed/XNyUs3A4QAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
