@@ -20,7 +20,7 @@ So far I was able to get tensorflow working on my raspberry pi, which is a platf
 
 # Second Milestone
  
-milestone description
+For the second milestone I was able to get an api working that would correctly utilize the labeled images that were fead to it in order to train the program to identify an airline based of an image of a plane. However this would only work with the specific link to the link after I used imgur to get said link. It was a bit of a hassle to upload the images and then get their link, then finally input it to the code for it to work it's magic. On the bright side, the output of the code was exactly as desired and it worked each time it was tested. The next steps are to clean up the code and output so it would be more clear to the user. As well as making the process less tedious from getting the image link each time manually. 
  
 <iframe width="650" height="365.625" src="https://www.youtube.com/embed/qT83YkiYU4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
