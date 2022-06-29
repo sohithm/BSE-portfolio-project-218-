@@ -7,6 +7,7 @@ Using object detection I created a program that correctly identifies a certain s
 | Sohith Movva | California Highschool | Engineering | Incoming Sophmore
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2021/12/BlueStamp-Logo.svg)
+[Documentation](BSEdocumentation.pdf)
   
 
 # First Milestone
