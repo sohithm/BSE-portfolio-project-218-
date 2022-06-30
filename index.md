@@ -1,6 +1,6 @@
 ﻿# Object Detection With Deep Learning On Raspberry Pi
  
-Using object detection I created a program that correctly identifies a certain subject/object from an image. In this case I can upload an image of an airplane into a folder and then run the code that was created, and it will subsequently tell us what airline the plane belongs to. ALong with this information it will let us know how certain the program is of it's findings. In the future, the code can be changed to detect any other object you could think of!
+Using object detection I created a program that correctly identifies a certain subject/object from an image. In this case I can upload an image of an airplane into a folder and then run the code that was created, and it will subsequently tell us what airline the plane belongs to. A Long with this information it will let us know how certain the program is of it's findings. In the future, the code can be changed to detect any other object you could think of!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
