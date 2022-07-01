@@ -6,7 +6,7 @@ Using object detection I created a program that correctly identifies a certain s
 |:--:|:--:|:--:|:--:|
 | Sohith Movva | California Highschool | Engineering | Incoming Sophmore
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2021/12/BlueStamp-Logo.svg)
+![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
 [Documentation](BSEdocumentation.pdf)
   
 
