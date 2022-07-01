@@ -28,6 +28,6 @@ For the second milestone I was able to get an api working that would correctly u
 
 # Third Milestone
  
-milestone description
+To wrap up the project I created a web server to host the images I wanted to run the code with. Using this web server I could put any image into a specific folder and run the program, which would give me the data I was looking for without the hassle of getting an image link and then inputting it each time. This makes the object detection program way more user friendly, efficient, and successful due the reduced percentage of human error during the link gathering process. Overall I am very happy with the finished product and it works just as well as expected, if not better. It is also great to know that I can alter the code slightly to work with any other object, not just planes, which will come in handy throughout my future! 
  
 <iframe width="650" height="365.625" src="https://www.youtube.com/embed/XNyUs3A4QAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
